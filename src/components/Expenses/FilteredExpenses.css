@@ -1,0 +1,25 @@
+.filterelement {
+  display: flex;
+  margin-bottom: 1rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.filterelement select {
+  font: inherit;
+  padding: 0.5rem;
+  width: 8rem;
+  font-weight: 600;
+  font-size: 1rem;
+  border-radius: 6px;
+}
+.filterelement select option {
+  padding: 0.5rem;
+}
+
+.filterelement label {
+  font-weight: bold;
+  font-size: 1rem;
+  color: white;
+  padding: 0.5rem;
+}

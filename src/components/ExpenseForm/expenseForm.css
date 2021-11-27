@@ -21,6 +21,10 @@
   max-width: 100%;
 }
 
+.expenseForm_actions {
+  text-align: right;
+}
+
 .expenseForm_actions button {
   font: inherit;
   cursor: pointer;
@@ -30,7 +34,6 @@
   color: white;
   border-radius: 12px;
   margin-right: 1rem;
-  text-align: right;
 }
 
 .expenseForm_actions button:hover,
